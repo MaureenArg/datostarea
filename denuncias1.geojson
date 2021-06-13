@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "denuncias",
+"name": "denuncias1",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "NOMBRE": "ACON", "TELEFONO": "2758-1010 \/ 2758-4099", "FAX": "2758-2924", "DIRECCION": "AVENIDA 3, CALLE 3 100 M ESTE DEL MERCADO CENTRAL", "HABITACION": 39, "PAG_INTERN": "ND", "CATEGORIA_": 1, "CORREO": "ND", "decimalLatitude": 9.992, "decimalLongitude": -83.029 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -83.029411308397542, 9.991578484275967 ] ] } },
