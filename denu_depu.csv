@@ -1,0 +1,536 @@
+CATEGORIA_,decimalLatitude,decimalLongitude,TIPO_den,año,TIPO_inf
+"1",9.992,-83.029,Agua,"2018",contaminacion
+"0",10.07,-84.309,Forestal,"2019",Tala
+"3",10.005,-84.177,Suelos,"2019",contaminacion
+"1",10.253,-85.051,Agua,"2018",desvio 
+"1",10.013,-84.213,Agua,"2018",descarga aguas residuales
+"3",9.973,-84.848,Suelos,"2019",erosion
+"1",9.61,-84.628,Agua,"2018",obras no autorizadas en cauce
+"4",10.527,-85.781,Mineria,"2019",extraccion tajo
+"2",9.253,-83.864,Vida silvestre,"2018",caceria
+"3",9.628,-82.661,Suelos,"2019",quema 
+"0",9.972,-85.685,Forestal,"2019",Incendio 
+"1",9.373,-83.704,Agua,"2018",contaminacion
+"4",9.607,-84.62,Mineria,"2019",extraccion tajo
+"3",9.902,-84.425,Suelos,"2019",movimiento 
+"3",9.932,-84.091,Suelos,"2019",contaminacion
+"1",10.442,-85.551,Agua ,"2018",contaminacion
+"3",9.995,-84.116,Suelos,"2019",quema 
+"4",9.936,-84.077,Mineria,"2019",extraccion tajo
+"0",9.658,-85.058,Forestal ,"2019",Invasion ASP
+"0",9.934,-84.065,Forestal ,"2019",Invasion ASP 
+"2",8.647,-82.942,Vida silvestre,"2018",tenencia ilegal
+"0",9.932,-84.068,Forestal ,"2019",Anillado arboles
+"0",10.574,-85.676,Forestal ,"2019",Tala 
+"0",9.93,-84.07,Forestal ,"2019",Invasion ASP
+"0",9.936,-84.066,Forestal ,"2019",Anillado arboles
+"2",9.391,-84.152,Vida silvestre,"2018",comercio 
+"0",9.815,-85.332,Forestal ,"2019",Incendio 
+"3",10.462,-84.643,Suelos,"2019",movimiento 
+"0",10.475,-84.689,Forestal ,"2019",Anillado arboles
+"0",10.459,-84.693,Forestal ,"2019",Anillado arboles
+"5",10.505,-84.607,Contaminacion aire ,"2019",mal olor
+"3",10.459,-84.741,Suelos,"2019",movimiento 
+"4",10.499,-84.693,Mineria,"2019",extraccion tajo 
+"3",10.499,-84.694,Suelos,"2019",quema 
+"0",9.612,-84.631,Forestal ,"2019",Anillado arboles
+"3",10.497,-84.689,Suelos,"2019",contaminacion
+"2",10.468,-84.645,Vida silvestre,"2018",caceria
+"2",10.471,-84.672,Vida silvestre,"2018",caceria
+"4",10.484,-84.686,Mineria,"2019",sedimentacion cuerpo agua
+"2",10.432,-84.735,Vida silvestre,"2018",caceria
+"3",10.49,-84.687,Suelos,"2019",contaminacion
+"4",9.395,-84.155,Mineria,"2019",sedimentacion cuerpo agua
+"0",9.333,-83.503,Forestal ,"2019",Invasion ASP 
+"0",10.574,-85.675,Forestal ,"2019",Incendio 
+"0",9.735,-82.842,Forestal ,"2019",Incendio 
+"5",9.934,-84.076,Contaminacion aire ,"2019",humo 
+"1",10.546,-84.893,Agua ,"2018",desvio 
+"3",9.932,-84.055,Suelos,"2019",contaminacion
+"1",9.166,-83.742,Agua ,"2018",obras no autorizadas en cauce
+"0",8.535,-83.307,Forestal ,"2019",Invasion ASP 
+"0",9.96,-84.133,Forestal ,"2019",Anillado arboles
+"0",9.715,-85.017,Forestal ,"2019",Anillado arboles
+"0",10.387,-85.836,Forestal ,"2019",Invasion ASP 
+"4",10.443,-85.773,Mineria,"2019",sedimentacion cuerpo agua
+"0",10.428,-85.791,Forestal ,"2019",Tala
+"3",10.387,-85.836,Suelos,"2019",erosion
+"4",10.541,-85.728,Mineria,"2019",extraccion tajo
+"2",9.613,-84.63,Vida silvestre,"2018",tenencia ilegal
+"4",9.931,-84.075,Mineria,"2019",extraccion materiales cauce
+"0",9.379,-84.143,Forestal ,"2019",Incendio 
+"4",9.937,-84.102,Mineria,"2019",extraccion materiales cauce
+"4",10.273,-85.848,Mineria,"2019",extraccion materiales cauce
+"5",9.716,-85.018,Contaminacion aire ,"2019",emision particulas
+"5",9.962,-84.131,Contaminacion aire ,"2019",mal olor
+"3",10.293,-84.804,Suelos,"2019",movimiento 
+"3",10.623,-85.445,Suelos,"2019",movimiento 
+"4",9.966,-84.136,Mineria,"2019",extraccion materiales cauce
+"4",9.614,-84.63,Mineria,"2019",extraccion tajo 
+"4",9.419,-84.158,Mineria,"2019",extraccion tajo 
+"3",10.61,-85.434,Suelos,"2019",erosion
+"3",9.935,-84.081,Suelos,"2019",quema 
+"3",11.051,-85.623,Suelos,"2019",erosion
+"4",10.805,-85.412,Mineria,"2019",sedimentacion cuerpo agua
+"4",9.977,-84.087,Mineria,"2019",sedimentacion cuerpo agua
+"4",9.931,-84.06,Mineria,"2019",sedimentacion cuerpo agua
+"1",10.623,-85.443,Agua ,"2018",desvio 
+"1",10.624,-85.444,Agua ,"2018",desvio 
+"1",10.405,-85.797,Agua ,"2018",desvio 
+"3",9.934,-84.074,Suelos,"2019",erosion
+"3",10.065,-84.246,Suelos,"2019",erosion
+"2",10.825,-85.466,Vida silvestre,"2019",caceria
+"3",9.443,-84.165,Suelos,"2019",erosion
+"0",10.296,-85.841,Forestal ,"2019",Tala
+"0",10.466,-84.67,Forestal ,"2019",Incendio 
+"2",9.933,-84.084,Vida silvestre,"2019",tenencia ilegal
+"4",10.272,-85.847,Mineria,"2019",extraccion tajo
+"3",9.45,-84.11,Suelos,"2019",erosion
+"3",10.191,-85.728,Suelos,"2019",erosion
+"1",10.426,-85.091,Agua ,"2018",obras no autorizadas en cauce
+"0",9.615,-84.633,Forestal ,"2019",Anillado arboles
+"0",9.166,-83.741,Forestal ,"2019",Anillado arboles
+"3",10.301,-85.838,Suelos,"2019",erosion
+"0",9.935,-84.074,Forestal ,"2019",Incendio 
+"3",9.642,-82.729,Suelos,"2018",contaminacion
+"0",9.379,-84.144,Forestal ,"2018",Anillado arboles
+"2",9.642,-82.732,Vida silvestre,"2019",caceria
+"4",9.929,-84.059,Mineria,"2019",sedimentacion cuerpo agua
+"4",8.636,-83.165,Mineria,"2019",sedimentacion cuerpo agua
+"4",9.908,-84.071,Mineria,"2019",sedimentacion cuerpo agua
+"4",10.585,-85.657,Mineria,"2019",extraccion tajo 
+"4",8.438,-83.429,Mineria,"2019",sedimentacion cuerpo agua
+"3",10.453,-84.637,Suelos,"2018",erosion
+"2",10.768,-83.596,Vida silvestre,"2019",caceria
+"2",9.935,-84.075,Vida silvestre,"2019",caceria
+"3",9.945,-84.132,Suelos,"2018",erosion
+"1",9.949,-84.107,Agua ,"2018",obras no autorizadas en cauce
+"1",9.929,-84.069,Agua ,"2018",contaminacion
+"0",9.654,-82.754,Forestal ,"2018",Incendio 
+"4",9.442,-84.166,Mineria,"2019",sedimentacion cuerpo agua
+"1",9.96,-84.613,Agua ,"2019",contaminacion
+"2",10.452,-84.652,Vida silvestre,"2019",caceria
+"3",10.733,-85.028,Suelos,"2018",quema 
+"3",9.934,-84.095,Suelos,"2018",erosion
+"0",8.646,-82.943,Forestal ,"2018",Invasion ASP 
+"1",9.997,-84.118,Agua ,"2019",contaminacion
+"0",9.611,-84.63,Forestal ,"2018",Invasion ASP 
+"0",10.57,-85.675,Forestal ,"2018",Tala
+"3",10.032,-84.091,Suelos,"2018",erosion
+"0",10.017,-84.214,Forestal ,"2018",Anillado arboles
+"2",9.98,-84.321,Vida silvestre,"2019",caceria
+"2",9.955,-84.046,Vida silvestre,"2019",caceria
+"1",9.374,-83.705,Agua ,"2019",descarga aguas residuales
+"2",10.624,-85.436,Vida silvestre,"2019",caceria
+"3",9.613,-84.632,Suelos,"2018",contaminacion
+"3",10.547,-85.696,Suelos,"2018",erosion
+"1",9.933,-84.086,Agua ,"2019",contaminacion
+"2",9.926,-84.103,Vida silvestre,"2019",tenencia ilegal
+"3",9.817,-84.11,Suelos,"2018",quema 
+"2",11.097,-85.612,Vida silvestre,"2019",caceria
+"3",9.736,-82.842,Suelos,"2018",erosion
+"2",9.928,-84.074,Vida silvestre,"2019",tenencia ilegal
+"0",10.486,-84.687,Forestal ,"2018",Incendio 
+"0",9.249,-83.864,Forestal ,"2018",Anillado arboles
+"2",9.93,-84.046,Vida silvestre,"2019",caceria
+"3",10.396,-85.808,Suelos,"2018",erosion
+"4",10.571,-85.678,Mineria,"2019",sedimentacion cuerpo agua
+"4",9.976,-84.185,Mineria,"2019",extraccion tajo 
+"2",8.631,-83.729,Vida silvestre,"2019",caceria
+"3",9.926,-84.212,Suelos,"2018",erosion
+"2",9.613,-84.629,Vida silvestre,"2019",tenencia ilegal
+"3",10.578,-85.666,Suelos,"2018",erosion
+"1",9.453,-84.176,Agua ,"2019",contaminacion
+"3",9.715,-85.017,Suelos,"2018",contaminacion
+"0",9.25,-83.864,Forestal ,"2018",Anillado arboles
+"5",9.973,-84.159,Contaminacion aire ,"2019",mal olor
+"3",9.932,-84.076,Suelos,"2018",movimiento 
+"3",9.929,-84.101,Suelos,"2018",movimiento 
+"2",9.973,-84.832,Vida silvestre,"2019",tenencia ilegal
+"3",9.417,-84.159,Suelos,"2018",contaminacion
+"4",9.976,-84.168,Mineria,"2019",sedimentacion cuerpo agua
+"4",9.944,-84.155,Mineria,"2019",sedimentacion cuerpo agua
+"4",9.118,-83.697,Mineria,"2019",sedimentacion cuerpo agua
+"3",9.938,-84.102,Suelos,"2018",erosion
+"4",8.532,-83.3,Mineria,"2018",extraccion tajo
+"1",8.846,-82.965,Agua ,"2019",obras no autorizadas en cauce
+"4",9.203,-83.797,Mineria,"2018",extraccion tajo
+"2",10.479,-85.616,Vida silvestre,"2019",tenencia ilegal
+"2",10.081,-84.124,Vida silvestre,"2019",tenencia ilegal
+"2",9.937,-84.05,Vida silvestre,"2019",tenencia ilegal
+"1",10.625,-85.437,Agua ,"2019",contaminacion
+"2",10.31,-84.821,Vida silvestre,"2019",tenencia ilegal
+"3",9.931,-84.079,Suelos,"2018",quema 
+"1",9.96,-84.08,Agua ,"2019",descarga aguas residuales
+"3",9.932,-84.074,Suelos,"2018",erosion
+"2",9.211,-83.64,Vida silvestre,"2018",caceria
+"3",9.374,-83.704,Suelos,"2018",erosion
+"1",9.932,-84.08,Agua ,"2019",desvio 
+"1",10.258,-85.583,Agua ,"2019",obras no autorizadas en cauce
+"0",9.252,-83.863,Forestal ,"2018",Incendio 
+"3",9.417,-84.159,Suelos,"2018",quema 
+"4",9.606,-84.612,Mineria,"2018",sedimentacion cuerpo agua
+"1",9.251,-83.864,Agua ,"2019",contaminacion
+"1",9.519,-84.321,Agua ,"2019",obras no autorizadas en cauce
+"4",9.944,-84.068,Mineria,"2018",extraccion tajo
+"3",9.928,-84.091,Suelos,"2018",erosion
+"2",10.322,-84.431,Vida silvestre,"2018",tenencia ilegal
+"2",9.929,-84.074,Vida silvestre,"2018",caceria
+"1",9.93,-84.083,Agua ,"2019",contaminacion
+"1",9.717,-85.018,Agua ,"2019",contaminacion
+"5",9.976,-84.161,Contaminacion aire ,"2019",emision particulas
+"3",9.977,-84.184,Suelos,"2018",erosion
+"3",9.935,-84.075,Suelos,"2018",contaminacion
+"3",9.413,-84.157,Suelos,"2018",contaminacion
+"3",10.455,-84.557,Suelos,"2018",contaminacion
+"3",10.56,-84.938,Suelos,"2019",contaminacion
+"2",10.272,-84.812,Vida silvestre,"2018",tenencia ilegal
+"4",11.065,-85.672,Mineria,"2018",extraccion tajo
+"3",9.934,-84.073,Suelos,"2018",erosion
+"2",10.453,-84.008,Vida silvestre,"2018",caceria
+"3",9.606,-84.625,Suelos,"2019",erosion
+"1",10.318,-84.431,Agua ,"2019",desvio 
+"1",9.518,-84.436,Agua ,"2019",contaminacion
+"2",10.551,-85.694,Vida silvestre,"2018",caceria
+"1",10.03,-84.206,Agua ,"2019",contaminacion
+"3",10.313,-84.817,Suelos,"2019",movimiento 
+"1",11.024,-84.707,Agua ,"2019",contaminacion
+"3",10.296,-85.842,Suelos,"2019",movimiento 
+"1",9.915,-84.24,Agua ,"2018",desvio 
+"2",10.301,-85.838,Vida silvestre,"2018",tenencia ilegal
+"1",9.424,-84.157,Agua ,"2018",contaminacion
+"3",10.585,-85.657,Suelos,"2019",movimiento 
+"0",9.613,-84.631,Forestal ,"2018",Incendio 
+"0",9.617,-84.635,Forestal ,"2018",Invasion ASP 
+"2",10.054,-84.113,Vida silvestre,"2018",caceria
+"4",9.974,-84.19,Mineria,"2018",sedimentacion cuerpo agua
+"0",10.32,-84.822,Forestal ,"2018",Incendio 
+"0",9.927,-84.099,Forestal ,"2018",Incendio 
+"4",10.215,-84.295,Mineria,"2018",sedimentacion cuerpo agua
+"2",10.628,-85.437,Vida silvestre,"2018",caceria
+"2",9.869,-85.488,Vida silvestre,"2018",caceria
+"2",10.571,-85.677,Vida silvestre,"2018",tenencia ilegal
+"3",9.944,-84.07,Suelos,"2019",movimiento 
+"0",10.493,-84.712,Forestal ,"2018",Invasion ASP 
+"3",8.706,-83.182,Suelos,"2019",erosion
+"0",10.225,-83.92,Forestal ,"2018",Tala
+"0",8.789,-82.957,Forestal ,"2018",Tala
+"0",10.356,-85.368,Forestal ,"2018",Anillado arboles
+"3",10.243,-85.707,Suelos,"2019",quema 
+"2",9.958,-85.674,Vida silvestre,"2018",tenencia ilegal
+"3",9.933,-84.079,Suelos,"2019",erosion
+"5",9.916,-84.562,Contaminacion aire ,"2019",emision particulas
+"1",10.473,-84.674,Agua ,"2018",contaminacion
+"4",9.973,-84.744,Mineria,"2018",sedimentacion cuerpo agua
+"2",10.314,-84.823,Vida silvestre,"2018",tenencia ilegal
+"4",10.034,-84.154,Mineria,"2018",extraccion tajo
+"1",10.331,-84.455,Agua ,"2018",obras no autorizadas en cauce
+"4",10.176,-85.817,Mineria,"2018",sedimentacion cuerpo agua
+"4",10.427,-85.792,Mineria,"2018",sedimentacion cuerpo agua
+"3",9.93,-84.073,Suelos,"2019",erosion
+"3",9.642,-85.169,Suelos,"2019",erosion
+"3",10.541,-85.693,Suelos,"2019",movimiento 
+"0",10.444,-85.772,Forestal ,"2018",Invasion ASP 
+"0",10.301,-84.803,Forestal ,"2018",Invasion ASP 
+"2",9.641,-85.168,Vida silvestre,"2018",tenencia ilegal
+"3",9.07,-83.656,Suelos,"2019",movimiento 
+"5",9.405,-84.157,Contaminacion aire ,"2019",mal olor
+"4",9.989,-84.2,Mineria,"2018",sedimentacion cuerpo agua
+"2",10.442,-84.005,Vida silvestre,"2019",tenencia ilegal
+"3",10.584,-85.656,Suelos,"2019",movimiento 
+"3",9.98,-85.657,Suelos,"2019",contaminacion
+"0",8.637,-83.165,Forestal ,"2018",Invasion ASP 
+"3",8.638,-83.167,Suelos,"2019",movimiento 
+"2",8.636,-83.168,Vida silvestre,"2019",caceria
+"1",9.93,-84.082,Agua ,"2018",obras no autorizadas en cauce
+"0",9.975,-84.833,Forestal ,"2018",Tala
+"4",9.93,-84.078,Mineria,"2018",extraccion tajo
+"4",9.93,-84.093,Mineria,"2018",extraccion tajo
+"1",9.922,-84.072,Agua ,"2018",contaminacion
+"3",10.149,-85.806,Suelos,"2019",movimiento 
+"1",9.907,-84.44,Agua ,"2018",contaminacion
+"3",9.869,-85.492,Suelos,"2019",contaminacion
+"2",10.723,-85.419,Vida silvestre,"2019",caceria
+"3",10.448,-85.129,Suelos,"2019",movimiento 
+"4",10.328,-85.815,Mineria,"2018",extraccion tajo
+"3",9.959,-83.942,Suelos,"2019",erosion
+"4",9.99,-84.2,Mineria,"2018",sedimentacion cuerpo agua
+"0",10.006,-83.058,Forestal ,"2019",Incendio 
+"3",9.936,-85.667,Suelos,"2019",movimiento 
+"3",10.311,-84.822,Suelos,"2019",erosion
+"3",10.574,-85.673,Suelos,"2019",erosion
+"4",9.975,-84.159,Mineria,"2018",extraccion tajo
+"5",10.584,-85.635,Contaminacion aire ,"2019",emision particulas
+"2",9.998,-84.117,Vida silvestre,"2019",caceria
+"3",10.319,-84.822,Suelos,"2019",movimiento 
+"3",10.148,-85.806,Suelos,"2019",erosion
+"1",10.538,-83.503,Agua ,"2018",desvio 
+"4",9.936,-84.076,Mineria,"2018",extraccion tajo
+"2",9.945,-84.131,Vida silvestre,"2019",tenencia ilegal
+"2",10.43,-83.76,Vida silvestre,"2019",caceria
+"3",9.609,-84.627,Suelos,"2019",quema 
+"0",9.931,-84.082,Forestal ,"2019",Anillado arboles
+"2",9.936,-84.067,Vida silvestre,"2019",caceria
+"3",9.405,-84.158,Suelos,"2019",erosion
+"2",9.449,-84.158,Vida silvestre,"2019",caceria
+"1",10.467,-84.968,Agua ,"2018",obras no autorizadas en cauce
+"3",10.324,-84.432,Suelos,"2019",movimiento 
+"3",10.304,-85.836,Suelos,"2019",movimiento 
+"5",10.063,-84.078,Contaminacion aire ,"2019",emision particulas
+"0",9.527,-84.478,Forestal ,"2019",Invasion ASP
+"3",10.571,-85.678,Suelos,"2019",movimiento 
+"1",9.946,-84.118,Agua ,"2018",obras no autorizadas en cauce
+"3",10.468,-84.644,Suelos,"2019",contaminacion
+"5",10.625,-85.676,Contaminacion aire ,"2019",emision particulas
+"3",10.36,-84.474,Suelos,"2019",contaminacion
+"1",9.931,-84.077,Agua ,"2018",obras no autorizadas en cauce
+"3",10.628,-85.435,Suelos,"2019",erosion
+"2",10.539,-83.503,Vida silvestre,"2019",caceria
+"1",9.926,-84.076,Agua ,"2018",contaminacion
+"3",9.379,-84.144,Suelos,"2019",movimiento 
+"3",9.39,-84.151,Suelos,"2019",erosion
+"3",8.693,-83.676,Suelos,"2019",quema 
+"2",9.951,-84.113,Vida silvestre,"2019",caceria
+"3",10.466,-84.665,Suelos,"2019",movimiento 
+"3",10.549,-85.697,Suelos,"2019",erosion
+"1",9.973,-84.847,Agua ,"2018",contaminacion
+"3",10.397,-84.134,Suelos,"2019",erosion
+"3",9.937,-84.103,Suelos,"2019",erosion
+"1",10.627,-85.439,Agua ,"2018",desvio 
+"1",9.426,-84.16,Agua ,"2018",contaminacion
+"2",10.451,-84.272,Vida silvestre,"2019",caceria
+"4",8.405,-83.282,Mineria,"2018",sedimentacion cuerpo agua
+"2",9.973,-84.848,Vida silvestre,"2019",caceria
+"2",9.878,-85.521,Vida silvestre,"2019",caceria
+"3",10.467,-84.632,Suelos,"2019",movimiento 
+"2",10.233,-85.84,Vida silvestre,"2019",caceria
+"3",10.009,-84.241,Suelos,"2019",erosion
+"3",9.639,-82.686,Suelos,"2019",movimiento 
+"1",9.614,-84.631,Agua ,"2018",contaminacion
+"3",10.335,-85.848,Suelos,"2019",erosion
+"1",9.427,-84.114,Agua ,"2018",contaminacion
+"3",9.928,-84.058,Suelos,"2019",contaminacion
+"2",10.393,-84.475,Vida silvestre,"2019",caceria
+"0",10.298,-84.818,Forestal ,"2019",Incendio 
+"0",10.783,-85.043,Forestal ,"2019",Invasion ASP
+"2",10.472,-84.646,Vida silvestre,"2019",tenencia ilegal
+"3",10.473,-84.615,Suelos,"2019",erosion
+"5",9.612,-84.629,Contaminacion aire ,"2019",emision particulas
+"3",9.93,-84.058,Suelos,"2018",erosion
+"0",10.437,-84.732,Forestal ,"2019",Tala
+"2",10.468,-84.645,Vida silvestre,"2019",caceria
+"3",9.995,-85.695,Suelos,"2018",contaminacion
+"3",8.535,-83.306,Suelos,"2018",quema 
+"2",9.651,-85.068,Vida silvestre,"2019",caceria
+"3",10.466,-84.664,Suelos,"2018",movimiento 
+"1",9.626,-85.154,Agua ,"2018",contaminacion
+"1",10.302,-85.837,Agua ,"2018",obras no autorizadas en cauce
+"3",9.612,-84.627,Suelos,"2018",erosion
+"3",9.106,-83.691,Suelos,"2018",quema 
+"0",9.931,-84.072,Forestal ,"2019",Tala
+"3",8.723,-83.648,Suelos,"2018",movimiento 
+"4",9.919,-84.138,Mineria,"2018",extraccion tajo
+"2",10.007,-83.065,Vida silvestre,"2019",tenencia ilegal
+"2",10.43,-85.791,Vida silvestre,"2019",caceria
+"5",10.009,-84.276,Contaminacion aire ,"2019",mal olor
+"1",10.006,-83.064,Agua ,"2018",contaminacion
+"1",10.468,-84.644,Agua ,"2018",desvio 
+"5",9.977,-84.163,Contaminacion aire ,"2019",emision particulas
+"1",9.99,-83.034,Agua ,"2018",obras no autorizadas en cauce
+"1",9.973,-84.841,Agua ,"2018",contaminacion
+"4",9.94,-84.013,Mineria,"2018",extraccion tajo
+"2",9.889,-84.131,Vida silvestre,"2018",caceria
+"4",10.582,-85.66,Mineria,"2018",sedimentacion cuerpo agua
+"3",10.501,-84.698,Suelos,"2018",erosion
+"3",10.063,-84.079,Suelos,"2018",movimiento 
+"1",10.072,-84.243,Agua ,"2019",contaminacion
+"3",10.319,-84.512,Suelos,"2018",movimiento 
+"2",10.466,-84.645,Vida silvestre,"2018",caceria
+"3",9.521,-84.449,Suelos,"2018",movimiento 
+"3",10.32,-84.821,Suelos,"2018",contaminacion
+"3",10.292,-84.831,Suelos,"2018",movimiento 
+"3",10.318,-84.823,Suelos,"2018",movimiento 
+"1",9.932,-84.072,Agua ,"2018",contaminacion
+"2",10.491,-85.019,Vida silvestre,"2018",caceria
+"3",10.536,-85.671,Suelos,"2018",movimiento 
+"0",10.403,-85.794,Forestal ,"2019",Tala
+"3",10.889,-84.787,Suelos,"2018",quema 
+"3",10.31,-84.816,Suelos,"2018",contaminacion
+"3",9.931,-84.073,Suelos,"2018",movimiento 
+"1",9.934,-84.963,Agua ,"2018",contaminacion
+"3",9.972,-84.163,Suelos,"2018",quema 
+"4",10.64,-85.651,Mineria,"2018",extraccion tajo
+"4",10.377,-84.376,Mineria,"2018",extraccion tajo
+"5",10.637,-85.642,Contaminacion aire ,"2019",emision particulas
+"4",9.936,-84.097,Mineria,"2018",extraccion tajo
+"4",10.542,-85.722,Mineria,"2018",extraccion tajo
+"0",10.552,-83.51,Forestal ,"2019",Invasion ASP
+"3",9.409,-84.154,Suelos,"2018",erosion
+"5",10.396,-85.809,Contaminacion aire ,"2019",emision particulas
+"4",9.421,-84.158,Mineria,"2018",extraccion tajo
+"4",9.599,-84.319,Mineria,"2018",sedimentacion cuerpo agua
+"1",9.072,-83.656,Agua ,"2018",obras no autorizadas en cauce
+"1",9.615,-84.63,Agua ,"2018",contaminacion
+"2",10.533,-84.662,Vida silvestre,"2018",caceria
+"3",9.992,-83.032,Suelos,"2018",movimiento 
+"4",9.932,-84.097,Mineria,"2018",extraccion tajo
+"3",10.285,-84.185,Suelos,"2018",movimiento 
+"3",9.625,-85.15,Suelos,"2018",movimiento 
+"3",9.427,-84.161,Suelos,"2018",movimiento 
+"1",10.568,-85.681,Agua ,"2018",contaminacion
+"1",10.307,-85.827,Agua ,"2018",contaminacion
+"2",10.19,-85.828,Vida silvestre,"2018",caceria
+"0",8.537,-83.306,Forestal ,"2019",Invasion ASP 
+"1",9.96,-85.678,Agua ,"2018",obras no autorizadas en cauce
+"1",9.931,-84.08,Agua ,"2018",obras no autorizadas en cauce
+"3",9.949,-84.108,Suelos,"2018",movimiento 
+"3",10.179,-84.152,Suelos,"2018",movimiento 
+"3",9.618,-84.631,Suelos,"2018",contaminacion
+"2",10.292,-84.829,Vida silvestre,"2018",caceria
+"1",8.643,-82.945,Agua ,"2018",contaminacion
+"2",9.928,-84.214,Vida silvestre,"2018",caceria
+"3",9.614,-84.632,Suelos,"2018",quema 
+"4",9.931,-84.071,Mineria,"2018",sedimentacion cuerpo agua
+"3",10.293,-84.931,Suelos,"2018",quema 
+"2",10.295,-85.843,Vida silvestre,"2018",caceria
+"3",9.973,-84.164,Suelos,"2018",contaminacion
+"3",10.513,-85.646,Suelos,"2018",movimiento 
+"2",9.642,-82.721,Vida silvestre,"2018",tenencia ilegal
+"5",9.851,-85.401,Contaminacion aire ,"2019",emision particulas
+"4",9.699,-84.667,Mineria,"2018",extraccion tajo
+"5",9.941,-84.171,Contaminacion aire ,"2019",mal olor
+"1",10.453,-84.005,Agua ,"2019",desvio 
+"5",9.95,-84.079,Contaminacion aire ,"2019",mal olor
+"2",10.21,-83.858,Vida silvestre,"2018",caceria
+"4",9.974,-84.156,Mineria,"2018",extraccion tajo
+"0",9.928,-84.105,Forestal ,"2019",Tala
+"2",10.548,-85.698,Vida silvestre,"2018",caceria
+"0",9.994,-85.703,Forestal ,"2019",Incendio 
+"4",9.429,-84.161,Mineria,"2018",extraccion tajo
+"2",10.429,-85.792,Vida silvestre,"2018",caceria
+"2",9.41,-83.665,Vida silvestre,"2018",caceria
+"3",10.085,-84.466,Suelos,"2018",movimiento 
+"2",9.935,-84.525,Vida silvestre,"2018",caceria
+"5",9.796,-83.886,Contaminacion aire ,"2019",mal olor
+"1",9.96,-85.678,Agua ,"2019",contaminacion
+"0",10.333,-83.954,Forestal ,"2019",Tala
+"5",9.943,-84.156,Contaminacion aire ,"2018",emision particulas
+"4",9.155,-83.748,Mineria,"2018",extraccion tajo
+"3",9.928,-84.104,Suelos,"2018",movimiento 
+"0",10.771,-83.594,Forestal ,"2019",Tala
+"1",10.372,-84.341,Agua ,"2019",contaminacion
+"3",10.304,-83.351,Suelos,"2018",quema 
+"0",8.787,-83.624,Forestal ,"2019",Tala
+"2",10.468,-84.958,Vida silvestre,"2018",caceria
+"2",9.989,-84.309,Vida silvestre,"2018",tenencia ilegal
+"3",9.932,-84.092,Suelos,"2018",erosion
+"3",9.931,-84.08,Suelos,"2018",quema 
+"3",9.67,-83.975,Suelos,"2018",contaminacion
+"3",9.878,-85.523,Suelos,"2018",movimiento 
+"2",9.654,-82.753,Vida silvestre,"2018",caceria
+"1",10.47,-84.646,Agua ,"2019",obras no autorizadas en cauce
+"3",9.93,-84.107,Suelos,"2018",movimiento 
+"1",9.352,-83.689,Agua ,"2019",contaminacion
+"1",9.978,-84.774,Agua ,"2019",contaminacion
+"1",9.929,-84.07,Agua ,"2019",obras no autorizadas en cauce
+"3",10.095,-84.378,Suelos,"2018",movimiento 
+"3",9.813,-83.863,Suelos,"2018",movimiento 
+"3",9.935,-84.077,Suelos,"2018",movimiento 
+"3",10.452,-84.007,Suelos,"2018",quema 
+"3",10.449,-84.062,Suelos,"2018",quema 
+"4",9.442,-84.166,Mineria,"2018",extraccion tajo
+"3",8.636,-83.167,Suelos,"2018",quema 
+"3",9.99,-83.032,Suelos,"2018",movimiento 
+"1",9.426,-84.16,Agua ,"2019",contaminacion
+"4",9.932,-84.075,Mineria,"2018",sedimentacion cuerpo agua
+"2",10.334,-85.85,Vida silvestre,"2018",caceria
+"2",9.614,-84.631,Vida silvestre,"2018",caceria
+"1",9.958,-84.08,Agua ,"2019",obras no autorizadas en cauce
+"2",9.932,-84.068,Vida silvestre,"2018",caceria
+"3",10.338,-83.958,Suelos,"2018",quema 
+"4",10.206,-83.782,Mineria,"2018",extraccion tajo
+"3",10.473,-85.781,Suelos,"2018",quema 
+"3",9.717,-82.819,Suelos,"2018",contaminacion
+"0",9.737,-82.841,Forestal ,"2019",Invasion ASP 
+"5",10.483,-84.697,Contaminacion aire ,"2018",mal olor
+"3",10.502,-84.702,Suelos,"2018",movimiento 
+"3",9.93,-84.083,Suelos,"2018",movimiento 
+"3",10.211,-83.789,Suelos,"2018",erosion
+"3",10.308,-85.819,Suelos,"2018",movimiento 
+"4",10.298,-85.84,Mineria,"2018",extraccion tajo
+"0",10.302,-85.837,Forestal ,"2019",Invasion ASP 
+"3",9.69,-85.103,Suelos,"2018",movimiento 
+"2",9.611,-84.629,Vida silvestre,"2019",tenencia ilegal
+"4",9.716,-85.018,Mineria,"2018",extraccion tajo
+"2",9.766,-83.8,Vida silvestre,"2019",caceria
+"1",10.148,-85.806,Agua ,"2019",desvio 
+"3",10.733,-85.053,Suelos,"2018",movimiento 
+"3",9.611,-84.628,Suelos,"2018",movimiento 
+"2",9.79,-83.855,Vida silvestre,"2019",caceria
+"1",8.958,-83.455,Agua ,"2019",contaminacion
+"3",10.087,-84.469,Suelos,"2018",quema 
+"4",10.459,-84.462,Mineria,"2018",extraccion tajo
+"3",10.497,-84.916,Suelos,"2018",quema 
+"4",9.484,-84.299,Mineria,"2018",sedimentacion cuerpo agua
+"3",9.185,-83.339,Suelos,"2018",quema 
+"3",8.369,-83.144,Suelos,"2018",contaminacion
+"3",10.538,-83.502,Suelos,"2018",movimiento 
+"2",9.931,-84.073,Vida silvestre,"2019",caceria
+"2",10.301,-84.804,Vida silvestre,"2019",caceria
+"3",9.378,-84.142,Suelos,"2019",movimiento 
+"3",10.297,-85.841,Suelos,"2019",quema 
+"4",9.936,-84.099,Mineria,"2019",sedimentacion cuerpo agua
+"2",10.481,-84.643,Vida silvestre,"2019",tenencia ilegal
+"1",10.03,-84.225,Agua ,"2019",contaminacion
+"3",10.528,-83.499,Suelos,"2019",quema 
+"1",10.896,-85.014,Agua ,"2019",obras no autorizadas en cauce
+"3",9.997,-84.113,Suelos,"2019",quema 
+"1",9.422,-84.166,Agua ,"2019",contaminacion
+"2",9.379,-84.145,Vida silvestre,"2019",caceria
+"3",9.931,-84.072,Suelos,"2019",movimiento 
+"5",10.572,-85.677,Contaminacion aire ,"2018",mal olor
+"1",10.334,-85.848,Agua ,"2019",desvio 
+"2",10.571,-85.677,Vida silvestre,"2019",caceria
+"3",10.137,-84.478,Suelos,"2019",quema 
+"2",9.408,-84.154,Vida silvestre,"2019",caceria
+"5",9.643,-84.627,Contaminacion aire ,"2018",mal olor
+"0",10.573,-85.677,Forestal ,"2019",Invasion ASP 
+"3",9.872,-83.677,Suelos,"2019",movimiento 
+"0",10.549,-85.696,Forestal ,"2019",Tala
+"1",9.689,-85.099,Agua ,"2019",desvio 
+"1",10.573,-85.673,Agua ,"2019",obras no autorizadas en cauce
+"2",10.573,-85.677,Vida silvestre,"2019",caceria
+"3",9.741,-84.582,Suelos,"2019",movimiento 
+"3",9.426,-84.138,Suelos,"2019",erosion
+"2",9.436,-84.155,Vida silvestre,"2019",tenencia ilegal
+"3",9.418,-84.161,Suelos,"2019",movimiento 
+"4",9.94,-84.077,Mineria,"2018",sedimentacion cuerpo agua
+"0",10.301,-84.803,Forestal ,"2019",Incendio 
+"1",10.029,-84.012,Agua ,"2019",desvio 
+"3",9.976,-84.16,Suelos,"2019",contaminacion
+"2",9.639,-82.717,Vida silvestre,"2019",tenencia ilegal
+"4",9.926,-84.141,Mineria,"2018",sedimentacion cuerpo agua
+"3",10.465,-85.777,Suelos,"2019",movimiento 
+"3",9.613,-84.624,Suelos,"2019",movimiento 
+"2",9.879,-85.527,Vida silvestre,"2019",tenencia ilegal
+"0",9.484,-84.3,Forestal ,"2019",Tala
+"0",9.409,-84.153,Forestal ,"2018",Tala
+"3",9.878,-85.522,Suelos,"2019",contaminacion
+"3",9.249,-83.863,Suelos,"2019",movimiento 
+"4",10.575,-85.676,Mineria,"2018",sedimentacion cuerpo agua
+"2",9.974,-84.16,Vida silvestre,"2019",caceria
+"3",10.041,-84.379,Suelos,"2019",contaminacion
+"2",9.996,-83.776,Vida silvestre,"2019",caceria
+"3",10.493,-84.688,Suelos,"2019",contaminacion
+"1",9.903,-83.683,Agua ,"2018",obras no autorizadas en cauce
+"2",9.526,-84.456,Vida silvestre,"2019",caceria
+"3",9.173,-83.744,Suelos,"2019",erosion
+"4",9.897,-84.137,Mineria,"2018",sedimentacion cuerpo agua
+"4",10.05,-84.206,Mineria,"2018",sedimentacion cuerpo agua
+"4",9.973,-84.849,Mineria,"2018",extraccion tajo 
+"1",9.935,-84.077,Agua ,"2018",desvio 
+"4",9.917,-84.141,Mineria,"2018",extraccion tajo 
+"0",9.639,-82.687,Forestal ,"2018",Tala
+"0",9.669,-83.975,Forestal ,"2018",Tala
+"4",9.83,-83.652,Mineria,"2018",extraccion tajo 
+,,,,,
