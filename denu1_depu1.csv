@@ -1,0 +1,535 @@
+Código;Año;Tipo de denuncia;Recurso afectado;decimalLatitude;decimalLongitude
+1;2018;contaminacion;Agua;9,992;-83,029
+2;2018;desvio;Agua;10,253;-85,051
+3;2018;descarga aguas residuales;Agua;10,013;-84,213
+4;2018;obras no autorizadas en cauce;Agua;9,61;-84,628
+5;2018;contaminacion;Agua;9,373;-83,704
+6;2018;contaminacion;Agua;10,442;-85,551
+7;2018;desvio;Agua;10,546;-84,893
+8;2018;obras no autorizadas en cauce;Agua;9,166;-83,742
+9;2018;desvio;Agua;10,623;-85,443
+10;2018;desvio;Agua;10,624;-85,444
+11;2018;desvio;Agua;10,405;-85,797
+12;2018;obras no autorizadas en cauce;Agua;10,426;-85,091
+13;2018;obras no autorizadas en cauce;Agua;9,949;-84,107
+14;2018;contaminacion;Agua;9,929;-84,069
+15;2018;desvio;Agua;9,915;-84,24
+16;2018;contaminacion;Agua;9,424;-84,157
+17;2018;contaminacion;Agua;10,473;-84,674
+18;2018;obras no autorizadas en cauce;Agua;10,331;-84,455
+19;2018;obras no autorizadas en cauce;Agua;9,93;-84,082
+20;2018;contaminacion;Agua;9,922;-84,072
+21;2018;contaminacion;Agua;9,907;-84,44
+22;2018;desvio;Agua;10,538;-83,503
+23;2018;obras no autorizadas en cauce;Agua;10,467;-84,968
+24;2018;obras no autorizadas en cauce;Agua;9,946;-84,118
+25;2018;obras no autorizadas en cauce;Agua;9,931;-84,077
+26;2018;contaminacion;Agua;9,926;-84,076
+27;2018;contaminacion;Agua;9,973;-84,847
+28;2018;desvio;Agua;10,627;-85,439
+29;2018;contaminacion;Agua;9,426;-84,16
+30;2018;contaminacion;Agua;9,614;-84,631
+31;2018;contaminacion;Agua;9,427;-84,114
+32;2018;contaminacion;Agua;9,626;-85,154
+33;2018;obras no autorizadas en cauce;Agua;10,302;-85,837
+34;2018;contaminacion;Agua;10,006;-83,064
+35;2018;desvio;Agua;10,468;-84,644
+36;2018;obras no autorizadas en cauce;Agua;9,99;-83,034
+37;2018;contaminacion;Agua;9,973;-84,841
+38;2018;contaminacion;Agua;9,932;-84,072
+39;2018;contaminacion;Agua;9,934;-84,963
+40;2018;obras no autorizadas en cauce;Agua;9,072;-83,656
+41;2018;contaminacion;Agua;9,615;-84,63
+42;2018;contaminacion;Agua;10,568;-85,681
+43;2018;contaminacion;Agua;10,307;-85,827
+44;2018;obras no autorizadas en cauce;Agua;9,96;-85,678
+45;2018;obras no autorizadas en cauce;Agua;9,931;-84,08
+46;2018;contaminacion;Agua;8,643;-82,945
+47;2018;obras no autorizadas en cauce;Agua;9,903;-83,683
+48;2018;desvio;Agua;9,935;-84,077
+49;2019;contaminacion;Agua;9,96;-84,613
+50;2019;contaminacion;Agua;9,997;-84,118
+51;2019;descarga aguas residuales;Agua;9,374;-83,705
+52;2019;contaminacion;Agua;9,933;-84,086
+53;2019;contaminacion;Agua;9,453;-84,176
+54;2019;obras no autorizadas en cauce;Agua;8,846;-82,965
+55;2019;contaminacion;Agua;10,625;-85,437
+56;2019;descarga aguas residuales;Agua;9,96;-84,08
+57;2019;desvio;Agua;9,932;-84,08
+58;2019;obras no autorizadas en cauce;Agua;10,258;-85,583
+59;2019;contaminacion;Agua;9,251;-83,864
+60;2019;obras no autorizadas en cauce;Agua;9,519;-84,321
+61;2019;contaminacion;Agua;9,93;-84,083
+62;2019;contaminacion;Agua;9,717;-85,018
+63;2019;desvio;Agua;10,318;-84,431
+64;2019;contaminacion;Agua;9,518;-84,436
+65;2019;contaminacion;Agua;10,03;-84,206
+66;2019;contaminacion;Agua;11,024;-84,707
+67;2019;contaminacion;Agua;10,072;-84,243
+68;2019;desvio;Agua;10,453;-84,005
+69;2019;contaminacion;Agua;9,96;-85,678
+70;2019;contaminacion;Agua;10,372;-84,341
+71;2019;obras no autorizadas en cauce;Agua;10,47;-84,646
+72;2019;contaminacion;Agua;9,352;-83,689
+73;2019;contaminacion;Agua;9,978;-84,774
+74;2019;obras no autorizadas en cauce;Agua;9,929;-84,07
+75;2019;contaminacion;Agua;9,426;-84,16
+76;2019;obras no autorizadas en cauce;Agua;9,958;-84,08
+77;2019;desvio;Agua;10,148;-85,806
+78;2019;contaminacion;Agua;8,958;-83,455
+79;2019;contaminacion;Agua;10,03;-84,225
+80;2019;obras no autorizadas en cauce;Agua;10,896;-85,014
+81;2019;contaminacion;Agua;9,422;-84,166
+82;2019;desvio;Agua;10,334;-85,848
+83;2019;desvio;Agua;9,689;-85,099
+84;2019;obras no autorizadas en cauce;Agua;10,573;-85,673
+85;2019;desvio;Agua;10,029;-84,012
+86;2019;mal olor;Aire;10,505;-84,607
+87;2019;humo;Aire;9,934;-84,076
+88;2019;emision particulas;Aire;9,716;-85,018
+89;2019;mal olor;Aire;9,962;-84,131
+90;2019;mal olor;Aire;9,973;-84,159
+91;2019;emision particulas;Aire;9,976;-84,161
+92;2019;emision particulas;Aire;9,916;-84,562
+93;2019;mal olor;Aire;9,405;-84,157
+94;2019;emision particulas;Aire;10,584;-85,635
+95;2019;emision particulas;Aire;10,063;-84,078
+96;2019;emision particulas;Aire;10,625;-85,676
+97;2019;emision particulas;Aire;9,612;-84,629
+98;2019;mal olor;Aire;10,009;-84,276
+99;2019;emision particulas;Aire;9,977;-84,163
+100;2019;emision particulas;Aire;10,637;-85,642
+101;2019;emision particulas;Aire;10,396;-85,809
+102;2019;emision particulas;Aire;9,851;-85,401
+103;2019;mal olor;Aire;9,941;-84,171
+104;2019;mal olor;Aire;9,95;-84,079
+105;2019;mal olor;Aire;9,796;-83,886
+106;2018;emision particulas;Aire;9,943;-84,156
+107;2018;mal olor;Aire;10,483;-84,697
+108;2018;mal olor;Aire;10,572;-85,677
+109;2018;mal olor;Aire;9,643;-84,627
+110;2019;Tala;Forestal;10,07;-84,309
+111;2019;Incendio;Forestal;9,972;-85,685
+112;2019;Invasion ASP;Forestal;9,658;-85,058
+113;2019;Invasion ASP;Forestal;9,934;-84,065
+114;2019;Anillado arboles;Forestal;9,932;-84,068
+115;2019;Tala;Forestal;10,574;-85,676
+116;2019;Invasion ASP;Forestal;9,93;-84,07
+117;2019;Anillado arboles;Forestal;9,936;-84,066
+118;2019;Incendio;Forestal;9,815;-85,332
+119;2019;Anillado arboles;Forestal;10,475;-84,689
+120;2019;Anillado arboles;Forestal;10,459;-84,693
+121;2019;Anillado arboles;Forestal;9,612;-84,631
+122;2019;Invasion ASP;Forestal;9,333;-83,503
+123;2019;Incendio;Forestal;10,574;-85,675
+124;2019;Incendio;Forestal;9,735;-82,842
+125;2019;Invasion ASP;Forestal;8,535;-83,307
+126;2019;Anillado arboles;Forestal;9,96;-84,133
+127;2019;Anillado arboles;Forestal;9,715;-85,017
+128;2019;Invasion ASP;Forestal;10,387;-85,836
+129;2019;Tala;Forestal;10,428;-85,791
+130;2019;Incendio;Forestal;9,379;-84,143
+131;2019;Tala;Forestal;10,296;-85,841
+132;2019;Incendio;Forestal;10,466;-84,67
+133;2019;Anillado arboles;Forestal;9,615;-84,633
+134;2019;Anillado arboles;Forestal;9,166;-83,741
+135;2019;Incendio;Forestal;9,935;-84,074
+136;2018;Anillado arboles;Forestal;9,379;-84,144
+137;2018;Incendio;Forestal;9,654;-82,754
+138;2018;Invasion ASP;Forestal;8,646;-82,943
+139;2018;Invasion ASP;Forestal;9,611;-84,63
+140;2018;Tala;Forestal;10,57;-85,675
+141;2018;Anillado arboles;Forestal;10,017;-84,214
+142;2018;Incendio;Forestal;10,486;-84,687
+143;2018;Anillado arboles;Forestal;9,249;-83,864
+144;2018;Anillado arboles;Forestal;9,25;-83,864
+145;2018;Incendio;Forestal;9,252;-83,863
+146;2018;Incendio;Forestal;9,613;-84,631
+147;2018;Invasion ASP;Forestal;9,617;-84,635
+148;2018;Incendio;Forestal;10,32;-84,822
+149;2018;Incendio;Forestal;9,927;-84,099
+150;2018;Invasion ASP;Forestal;10,493;-84,712
+151;2018;Tala;Forestal;10,225;-83,92
+152;2018;Tala;Forestal;8,789;-82,957
+153;2018;Anillado arboles;Forestal;10,356;-85,368
+154;2018;Invasion ASP;Forestal;10,444;-85,772
+155;2018;Invasion ASP;Forestal;10,301;-84,803
+156;2018;Invasion ASP;Forestal;8,637;-83,165
+157;2018;Tala;Forestal;9,975;-84,833
+158;2019;Incendio;Forestal;10,006;-83,058
+159;2019;Anillado arboles;Forestal;9,931;-84,082
+160;2019;Invasion ASP;Forestal;9,527;-84,478
+161;2019;Incendio;Forestal;10,298;-84,818
+162;2019;Invasion ASP;Forestal;10,783;-85,043
+163;2019;Tala;Forestal;10,437;-84,732
+164;2019;Tala;Forestal;9,931;-84,072
+165;2019;Tala;Forestal;10,403;-85,794
+166;2019;Invasion ASP;Forestal;10,552;-83,51
+167;2019;Invasion ASP;Forestal;8,537;-83,306
+168;2019;Tala;Forestal;9,928;-84,105
+169;2019;Incendio;Forestal;9,994;-85,703
+170;2019;Tala;Forestal;10,333;-83,954
+171;2019;Tala;Forestal;10,771;-83,594
+172;2019;Tala;Forestal;8,787;-83,624
+173;2019;Invasion ASP;Forestal;9,737;-82,841
+174;2019;Invasion ASP;Forestal;10,302;-85,837
+175;2019;Invasion ASP;Forestal;10,573;-85,677
+176;2019;Tala;Forestal;10,549;-85,696
+177;2019;Incendio;Forestal;10,301;-84,803
+178;2019;Tala;Forestal;9,484;-84,3
+179;2018;Tala;Forestal;9,409;-84,153
+180;2018;Tala;Forestal;9,639;-82,687
+181;2018;Tala;Forestal;9,669;-83,975
+182;2019;extraccion tajo;Mineria;10,527;-85,781
+183;2019;extraccion tajo;Mineria;9,607;-84,62
+184;2019;extraccion tajo;Mineria;9,936;-84,077
+185;2019;extraccion tajo;Mineria;10,499;-84,693
+186;2019;sedimentacion cuerpo agua;Mineria;10,484;-84,686
+187;2019;sedimentacion cuerpo agua;Mineria;9,395;-84,155
+188;2019;sedimentacion cuerpo agua;Mineria;10,443;-85,773
+189;2019;extraccion tajo;Mineria;10,541;-85,728
+190;2019;extraccion materiales cauce;Mineria;9,931;-84,075
+191;2019;extraccion materiales cauce;Mineria;9,937;-84,102
+192;2019;extraccion materiales cauce;Mineria;10,273;-85,848
+193;2019;extraccion materiales cauce;Mineria;9,966;-84,136
+194;2019;extraccion tajo;Mineria;9,614;-84,63
+195;2019;extraccion tajo;Mineria;9,419;-84,158
+196;2019;sedimentacion cuerpo agua;Mineria;10,805;-85,412
+197;2019;sedimentacion cuerpo agua;Mineria;9,977;-84,087
+198;2019;sedimentacion cuerpo agua;Mineria;9,931;-84,06
+199;2019;extraccion tajo;Mineria;10,272;-85,847
+200;2019;sedimentacion cuerpo agua;Mineria;9,929;-84,059
+201;2019;sedimentacion cuerpo agua;Mineria;8,636;-83,165
+202;2019;sedimentacion cuerpo agua;Mineria;9,908;-84,071
+203;2019;extraccion tajo;Mineria;10,585;-85,657
+204;2019;sedimentacion cuerpo agua;Mineria;8,438;-83,429
+205;2019;sedimentacion cuerpo agua;Mineria;9,442;-84,166
+206;2019;sedimentacion cuerpo agua;Mineria;10,571;-85,678
+207;2019;extraccion tajo;Mineria;9,976;-84,185
+208;2019;sedimentacion cuerpo agua;Mineria;9,976;-84,168
+209;2019;sedimentacion cuerpo agua;Mineria;9,944;-84,155
+210;2019;sedimentacion cuerpo agua;Mineria;9,118;-83,697
+211;2018;extraccion tajo;Mineria;8,532;-83,3
+212;2018;extraccion tajo;Mineria;9,203;-83,797
+213;2018;sedimentacion cuerpo agua;Mineria;9,606;-84,612
+214;2018;extraccion tajo;Mineria;9,944;-84,068
+215;2018;extraccion tajo;Mineria;11,065;-85,672
+216;2018;sedimentacion cuerpo agua;Mineria;9,974;-84,19
+217;2018;sedimentacion cuerpo agua;Mineria;10,215;-84,295
+218;2018;sedimentacion cuerpo agua;Mineria;9,973;-84,744
+219;2018;extraccion tajo;Mineria;10,034;-84,154
+220;2018;sedimentacion cuerpo agua;Mineria;10,176;-85,817
+221;2018;sedimentacion cuerpo agua;Mineria;10,427;-85,792
+222;2018;sedimentacion cuerpo agua;Mineria;9,989;-84,2
+223;2018;extraccion tajo;Mineria;9,93;-84,078
+224;2018;extraccion tajo;Mineria;9,93;-84,093
+225;2018;extraccion tajo;Mineria;10,328;-85,815
+226;2018;sedimentacion cuerpo agua;Mineria;9,99;-84,2
+227;2018;extraccion tajo;Mineria;9,975;-84,159
+228;2018;extraccion tajo;Mineria;9,936;-84,076
+229;2018;sedimentacion cuerpo agua;Mineria;8,405;-83,282
+230;2018;extraccion tajo;Mineria;9,919;-84,138
+231;2018;extraccion tajo;Mineria;9,94;-84,013
+232;2018;sedimentacion cuerpo agua;Mineria;10,582;-85,66
+233;2018;extraccion tajo;Mineria;10,64;-85,651
+234;2018;extraccion tajo;Mineria;10,377;-84,376
+235;2018;extraccion tajo;Mineria;9,936;-84,097
+236;2018;extraccion tajo;Mineria;10,542;-85,722
+237;2018;extraccion tajo;Mineria;9,421;-84,158
+238;2018;sedimentacion cuerpo agua;Mineria;9,599;-84,319
+239;2018;extraccion tajo;Mineria;9,932;-84,097
+240;2018;sedimentacion cuerpo agua;Mineria;9,931;-84,071
+241;2018;extraccion tajo;Mineria;9,699;-84,667
+242;2018;extraccion tajo;Mineria;9,974;-84,156
+243;2018;extraccion tajo;Mineria;9,429;-84,161
+244;2018;extraccion tajo;Mineria;9,155;-83,748
+245;2018;extraccion tajo;Mineria;9,442;-84,166
+246;2018;sedimentacion cuerpo agua;Mineria;9,932;-84,075
+247;2018;extraccion tajo;Mineria;10,206;-83,782
+248;2018;extraccion tajo;Mineria;10,298;-85,84
+249;2018;extraccion tajo;Mineria;9,716;-85,018
+250;2018;extraccion tajo;Mineria;10,459;-84,462
+251;2018;sedimentacion cuerpo agua;Mineria;9,484;-84,299
+252;2019;sedimentacion cuerpo agua;Mineria;9,936;-84,099
+253;2018;sedimentacion cuerpo agua;Mineria;9,94;-84,077
+254;2018;sedimentacion cuerpo agua;Mineria;9,926;-84,141
+255;2018;sedimentacion cuerpo agua;Mineria;10,575;-85,676
+256;2018;sedimentacion cuerpo agua;Mineria;9,897;-84,137
+257;2018;sedimentacion cuerpo agua;Mineria;10,05;-84,206
+258;2018;extraccion tajo;Mineria;9,973;-84,849
+259;2018;extraccion tajo;Mineria;9,917;-84,141
+260;2018;extraccion tajo;Mineria;9,83;-83,652
+261;2019;contaminacion;Suelo;10,005;-84,177
+262;2019;erosion;Suelo;9,973;-84,848
+263;2019;quema;Suelo;9,628;-82,661
+264;2019;movimiento;Suelo;9,902;-84,425
+265;2019;contaminacion;Suelo;9,932;-84,091
+266;2019;quema;Suelo;9,995;-84,116
+267;2019;movimiento;Suelo;10,462;-84,643
+268;2019;movimiento;Suelo;10,459;-84,741
+269;2019;quema;Suelo;10,499;-84,694
+270;2019;contaminacion;Suelo;10,497;-84,689
+271;2019;contaminacion;Suelo;10,49;-84,687
+272;2019;contaminacion;Suelo;9,932;-84,055
+273;2019;erosion;Suelo;10,387;-85,836
+274;2019;movimiento;Suelo;10,293;-84,804
+275;2019;movimiento;Suelo;10,623;-85,445
+276;2019;erosion;Suelo;10,61;-85,434
+277;2019;quema;Suelo;9,935;-84,081
+278;2019;erosion;Suelo;11,051;-85,623
+279;2019;erosion;Suelo;9,934;-84,074
+280;2019;erosion;Suelo;10,065;-84,246
+281;2019;erosion;Suelo;9,443;-84,165
+282;2019;erosion;Suelo;9,45;-84,11
+283;2019;erosion;Suelo;10,191;-85,728
+284;2019;erosion;Suelo;10,301;-85,838
+285;2018;contaminacion;Suelo;9,642;-82,729
+286;2018;erosion;Suelo;10,453;-84,637
+287;2018;erosion;Suelo;9,945;-84,132
+288;2018;quema;Suelo;10,733;-85,028
+289;2018;erosion;Suelo;9,934;-84,095
+290;2018;erosion;Suelo;10,032;-84,091
+291;2018;contaminacion;Suelo;9,613;-84,632
+292;2018;erosion;Suelo;10,547;-85,696
+293;2018;quema;Suelo;9,817;-84,11
+294;2018;erosion;Suelo;9,736;-82,842
+295;2018;erosion;Suelo;10,396;-85,808
+296;2018;erosion;Suelo;9,926;-84,212
+297;2018;erosion;Suelo;10,578;-85,666
+298;2018;contaminacion;Suelo;9,715;-85,017
+299;2018;movimiento;Suelo;9,932;-84,076
+300;2018;movimiento;Suelo;9,929;-84,101
+301;2018;contaminacion;Suelo;9,417;-84,159
+302;2018;erosion;Suelo;9,938;-84,102
+303;2018;quema;Suelo;9,931;-84,079
+304;2018;erosion;Suelo;9,932;-84,074
+305;2018;erosion;Suelo;9,374;-83,704
+306;2018;quema;Suelo;9,417;-84,159
+307;2018;erosion;Suelo;9,928;-84,091
+308;2018;erosion;Suelo;9,977;-84,184
+309;2018;contaminacion;Suelo;9,935;-84,075
+310;2018;contaminacion;Suelo;9,413;-84,157
+311;2018;contaminacion;Suelo;10,455;-84,557
+312;2019;contaminacion;Suelo;10,56;-84,938
+313;2018;erosion;Suelo;9,934;-84,073
+314;2019;erosion;Suelo;9,606;-84,625
+315;2019;movimiento;Suelo;10,313;-84,817
+316;2019;movimiento;Suelo;10,296;-85,842
+317;2019;movimiento;Suelo;10,585;-85,657
+318;2019;movimiento;Suelo;9,944;-84,07
+319;2019;erosion;Suelo;8,706;-83,182
+320;2019;quema;Suelo;10,243;-85,707
+321;2019;erosion;Suelo;9,933;-84,079
+322;2019;erosion;Suelo;9,93;-84,073
+323;2019;erosion;Suelo;9,642;-85,169
+324;2019;movimiento;Suelo;10,541;-85,693
+325;2019;movimiento;Suelo;9,07;-83,656
+326;2019;movimiento;Suelo;10,584;-85,656
+327;2019;contaminacion;Suelo;9,98;-85,657
+328;2019;movimiento;Suelo;8,638;-83,167
+329;2019;movimiento;Suelo;10,149;-85,806
+330;2019;contaminacion;Suelo;9,869;-85,492
+331;2019;movimiento;Suelo;10,448;-85,129
+332;2019;erosion;Suelo;9,959;-83,942
+333;2019;movimiento;Suelo;9,936;-85,667
+334;2019;erosion;Suelo;10,311;-84,822
+335;2019;erosion;Suelo;10,574;-85,673
+336;2019;movimiento;Suelo;10,319;-84,822
+337;2019;erosion;Suelo;10,148;-85,806
+338;2019;quema;Suelo;9,609;-84,627
+339;2019;erosion;Suelo;9,405;-84,158
+340;2019;movimiento;Suelo;10,324;-84,432
+341;2019;movimiento;Suelo;10,304;-85,836
+342;2019;movimiento;Suelo;10,571;-85,678
+343;2019;contaminacion;Suelo;10,468;-84,644
+344;2019;contaminacion;Suelo;10,36;-84,474
+345;2019;erosion;Suelo;10,628;-85,435
+346;2019;movimiento;Suelo;9,379;-84,144
+347;2019;erosion;Suelo;9,39;-84,151
+348;2019;quema;Suelo;8,693;-83,676
+349;2019;movimiento;Suelo;10,466;-84,665
+350;2019;erosion;Suelo;10,549;-85,697
+351;2019;erosion;Suelo;10,397;-84,134
+352;2019;erosion;Suelo;9,937;-84,103
+353;2019;movimiento;Suelo;10,467;-84,632
+354;2019;erosion;Suelo;10,009;-84,241
+355;2019;movimiento;Suelo;9,639;-82,686
+356;2019;erosion;Suelo;10,335;-85,848
+357;2019;contaminacion;Suelo;9,928;-84,058
+358;2019;erosion;Suelo;10,473;-84,615
+359;2018;erosion;Suelo;9,93;-84,058
+360;2018;contaminacion;Suelo;9,995;-85,695
+361;2018;quema;Suelo;8,535;-83,306
+362;2018;movimiento;Suelo;10,466;-84,664
+363;2018;erosion;Suelo;9,612;-84,627
+364;2018;quema;Suelo;9,106;-83,691
+365;2018;movimiento;Suelo;8,723;-83,648
+366;2018;erosion;Suelo;10,501;-84,698
+367;2018;movimiento;Suelo;10,063;-84,079
+368;2018;movimiento;Suelo;10,319;-84,512
+369;2018;movimiento;Suelo;9,521;-84,449
+370;2018;contaminacion;Suelo;10,32;-84,821
+371;2018;movimiento;Suelo;10,292;-84,831
+372;2018;movimiento;Suelo;10,318;-84,823
+373;2018;movimiento;Suelo;10,536;-85,671
+374;2018;quema;Suelo;10,889;-84,787
+375;2018;contaminacion;Suelo;10,31;-84,816
+376;2018;movimiento;Suelo;9,931;-84,073
+377;2018;quema;Suelo;9,972;-84,163
+378;2018;erosion;Suelo;9,409;-84,154
+379;2018;movimiento;Suelo;9,992;-83,032
+380;2018;movimiento;Suelo;10,285;-84,185
+381;2018;movimiento;Suelo;9,625;-85,15
+382;2018;movimiento;Suelo;9,427;-84,161
+383;2018;movimiento;Suelo;9,949;-84,108
+384;2018;movimiento;Suelo;10,179;-84,152
+385;2018;contaminacion;Suelo;9,618;-84,631
+386;2018;quema;Suelo;9,614;-84,632
+387;2018;quema;Suelo;10,293;-84,931
+388;2018;contaminacion;Suelo;9,973;-84,164
+389;2018;movimiento;Suelo;10,513;-85,646
+390;2018;movimiento;Suelo;10,085;-84,466
+391;2018;movimiento;Suelo;9,928;-84,104
+392;2018;quema;Suelo;10,304;-83,351
+393;2018;erosion;Suelo;9,932;-84,092
+394;2018;quema;Suelo;9,931;-84,08
+395;2018;contaminacion;Suelo;9,67;-83,975
+396;2018;movimiento;Suelo;9,878;-85,523
+397;2018;movimiento;Suelo;9,93;-84,107
+398;2018;movimiento;Suelo;10,095;-84,378
+399;2018;movimiento;Suelo;9,813;-83,863
+400;2018;movimiento;Suelo;9,935;-84,077
+401;2018;quema;Suelo;10,452;-84,007
+402;2018;quema;Suelo;10,449;-84,062
+403;2018;quema;Suelo;8,636;-83,167
+404;2018;movimiento;Suelo;9,99;-83,032
+405;2018;quema;Suelo;10,338;-83,958
+406;2018;quema;Suelo;10,473;-85,781
+407;2018;contaminacion;Suelo;9,717;-82,819
+408;2018;movimiento;Suelo;10,502;-84,702
+409;2018;movimiento;Suelo;9,93;-84,083
+410;2018;erosion;Suelo;10,211;-83,789
+411;2018;movimiento;Suelo;10,308;-85,819
+412;2018;movimiento;Suelo;9,69;-85,103
+413;2018;movimiento;Suelo;10,733;-85,053
+414;2018;movimiento;Suelo;9,611;-84,628
+415;2018;quema;Suelo;10,087;-84,469
+416;2018;quema;Suelo;10,497;-84,916
+417;2018;quema;Suelo;9,185;-83,339
+418;2018;contaminacion;Suelo;8,369;-83,144
+419;2018;movimiento;Suelo;10,538;-83,502
+420;2019;movimiento;Suelo;9,378;-84,142
+421;2019;quema;Suelo;10,297;-85,841
+422;2019;quema;Suelo;10,528;-83,499
+423;2019;quema;Suelo;9,997;-84,113
+424;2019;movimiento;Suelo;9,931;-84,072
+425;2019;quema;Suelo;10,137;-84,478
+426;2019;movimiento;Suelo;9,872;-83,677
+427;2019;movimiento;Suelo;9,741;-84,582
+428;2019;erosion;Suelo;9,426;-84,138
+429;2019;movimiento;Suelo;9,418;-84,161
+430;2019;contaminacion;Suelo;9,976;-84,16
+431;2019;movimiento;Suelo;10,465;-85,777
+432;2019;movimiento;Suelo;9,613;-84,624
+433;2019;contaminacion;Suelo;9,878;-85,522
+434;2019;movimiento;Suelo;9,249;-83,863
+435;2019;contaminacion;Suelo;10,041;-84,379
+436;2019;contaminacion;Suelo;10,493;-84,688
+437;2019;erosion;Suelo;9,173;-83,744
+438;2018;caceria;Vida silvestre;9,253;-83,864
+439;2018;tenencia ilegal;Vida silvestre;8,647;-82,942
+440;2018;comercio;Vida silvestre;9,391;-84,152
+441;2018;caceria;Vida silvestre;10,468;-84,645
+442;2018;caceria;Vida silvestre;10,471;-84,672
+443;2018;caceria;Vida silvestre;10,432;-84,735
+444;2018;tenencia ilegal;Vida silvestre;9,613;-84,63
+445;2019;caceria;Vida silvestre;10,825;-85,466
+446;2019;tenencia ilegal;Vida silvestre;9,933;-84,084
+447;2019;caceria;Vida silvestre;9,642;-82,732
+448;2019;caceria;Vida silvestre;10,768;-83,596
+449;2019;caceria;Vida silvestre;9,935;-84,075
+450;2019;caceria;Vida silvestre;10,452;-84,652
+451;2019;caceria;Vida silvestre;9,98;-84,321
+452;2019;caceria;Vida silvestre;9,955;-84,046
+453;2019;caceria;Vida silvestre;10,624;-85,436
+454;2019;tenencia ilegal;Vida silvestre;9,926;-84,103
+455;2019;caceria;Vida silvestre;11,097;-85,612
+456;2019;tenencia ilegal;Vida silvestre;9,928;-84,074
+457;2019;caceria;Vida silvestre;9,93;-84,046
+458;2019;caceria;Vida silvestre;8,631;-83,729
+459;2019;tenencia ilegal;Vida silvestre;9,613;-84,629
+460;2019;tenencia ilegal;Vida silvestre;9,973;-84,832
+461;2019;tenencia ilegal;Vida silvestre;10,479;-85,616
+462;2019;tenencia ilegal;Vida silvestre;10,081;-84,124
+463;2019;tenencia ilegal;Vida silvestre;9,937;-84,05
+464;2019;tenencia ilegal;Vida silvestre;10,31;-84,821
+465;2018;caceria;Vida silvestre;9,211;-83,64
+466;2018;tenencia ilegal;Vida silvestre;10,322;-84,431
+467;2018;caceria;Vida silvestre;9,929;-84,074
+468;2018;tenencia ilegal;Vida silvestre;10,272;-84,812
+469;2018;caceria;Vida silvestre;10,453;-84,008
+470;2018;caceria;Vida silvestre;10,551;-85,694
+471;2018;tenencia ilegal;Vida silvestre;10,301;-85,838
+472;2018;caceria;Vida silvestre;10,054;-84,113
+473;2018;caceria;Vida silvestre;10,628;-85,437
+474;2018;caceria;Vida silvestre;9,869;-85,488
+475;2018;tenencia ilegal;Vida silvestre;10,571;-85,677
+476;2018;tenencia ilegal;Vida silvestre;9,958;-85,674
+477;2018;tenencia ilegal;Vida silvestre;10,314;-84,823
+478;2018;tenencia ilegal;Vida silvestre;9,641;-85,168
+479;2019;tenencia ilegal;Vida silvestre;10,442;-84,005
+480;2019;caceria;Vida silvestre;8,636;-83,168
+481;2019;caceria;Vida silvestre;10,723;-85,419
+482;2019;caceria;Vida silvestre;9,998;-84,117
+483;2019;tenencia ilegal;Vida silvestre;9,945;-84,131
+484;2019;caceria;Vida silvestre;10,43;-83,76
+485;2019;caceria;Vida silvestre;9,936;-84,067
+486;2019;caceria;Vida silvestre;9,449;-84,158
+487;2019;caceria;Vida silvestre;10,539;-83,503
+488;2019;caceria;Vida silvestre;9,951;-84,113
+489;2019;caceria;Vida silvestre;10,451;-84,272
+490;2019;caceria;Vida silvestre;9,973;-84,848
+491;2019;caceria;Vida silvestre;9,878;-85,521
+492;2019;caceria;Vida silvestre;10,233;-85,84
+493;2019;caceria;Vida silvestre;10,393;-84,475
+494;2019;tenencia ilegal;Vida silvestre;10,472;-84,646
+495;2019;caceria;Vida silvestre;10,468;-84,645
+496;2019;caceria;Vida silvestre;9,651;-85,068
+497;2019;tenencia ilegal;Vida silvestre;10,007;-83,065
+498;2019;caceria;Vida silvestre;10,43;-85,791
+499;2018;caceria;Vida silvestre;9,889;-84,131
+500;2018;caceria;Vida silvestre;10,466;-84,645
+501;2018;caceria;Vida silvestre;10,491;-85,019
+502;2018;caceria;Vida silvestre;10,533;-84,662
+503;2018;caceria;Vida silvestre;10,19;-85,828
+504;2018;caceria;Vida silvestre;10,292;-84,829
+505;2018;caceria;Vida silvestre;9,928;-84,214
+506;2018;caceria;Vida silvestre;10,295;-85,843
+507;2018;tenencia ilegal;Vida silvestre;9,642;-82,721
+508;2018;caceria;Vida silvestre;10,21;-83,858
+509;2018;caceria;Vida silvestre;10,548;-85,698
+510;2018;caceria;Vida silvestre;10,429;-85,792
+511;2018;caceria;Vida silvestre;9,41;-83,665
+512;2018;caceria;Vida silvestre;9,935;-84,525
+513;2018;caceria;Vida silvestre;10,468;-84,958
+514;2018;tenencia ilegal;Vida silvestre;9,989;-84,309
+515;2018;caceria;Vida silvestre;9,654;-82,753
+516;2018;caceria;Vida silvestre;10,334;-85,85
+517;2018;caceria;Vida silvestre;9,614;-84,631
+518;2018;caceria;Vida silvestre;9,932;-84,068
+519;2019;tenencia ilegal;Vida silvestre;9,611;-84,629
+520;2019;caceria;Vida silvestre;9,766;-83,8
+521;2019;caceria;Vida silvestre;9,79;-83,855
+522;2019;caceria;Vida silvestre;9,931;-84,073
+523;2019;caceria;Vida silvestre;10,301;-84,804
+524;2019;tenencia ilegal;Vida silvestre;10,481;-84,643
+525;2019;caceria;Vida silvestre;9,379;-84,145
+526;2019;caceria;Vida silvestre;10,571;-85,677
+527;2019;caceria;Vida silvestre;9,408;-84,154
+528;2019;caceria;Vida silvestre;10,573;-85,677
+529;2019;tenencia ilegal;Vida silvestre;9,436;-84,155
+530;2019;tenencia ilegal;Vida silvestre;9,639;-82,717
+531;2019;tenencia ilegal;Vida silvestre;9,879;-85,527
+532;2019;caceria;Vida silvestre;9,974;-84,16
+533;2019;caceria;Vida silvestre;9,996;-83,776
+534;2019;caceria;Vida silvestre;9,526;-84,456
